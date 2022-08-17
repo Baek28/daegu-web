@@ -1,19 +1,19 @@
 # toco-renewal 작업 참고사항
 
 
-### 각 페이지별 html / 이름 / 진행률
+### 각 페이지별 html / 이름 / 
 
-1 main - 메인화면 - 문순정 95%
+1 main - 메인화면 - 문순정
 
-2 company - 회사소개 - 백인홍 30%
+2 company - 회사소개 - 백인홍 
 
-3 company - 회사소개 - 정명환 95%
+3 company - 회사소개 - 정명환 
 
-4 business - 사업현황 - 전유진 95%
+4 business - 사업현황 - 전유진 
 
-5 yard - 정보마당 - 허제민 95%
+5 yard - 정보마당 - 허제민 
 
-6 yard-news - 정보마당 : 세부 페이지 - 박주형 50%
+6 yard-news - 정보마당 : 세부 페이지 - 박주형 
 
 ---
 
